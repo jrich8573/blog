@@ -8,15 +8,15 @@ title: "NADEBlg!"
 description: > # this means to ignore newlines until "email:"
 email: jasonrich85@gmail.com 
 #blog logo
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
+# logo: "/assets/images/df_logo.jpg"
+# float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Jason Rich'
 author: 'Jason Rich'
-author_image: "/assets/images/author.jpg"
+# author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
