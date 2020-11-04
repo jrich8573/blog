@@ -6,7 +6,6 @@ gems:
 # Site settings
 title: "NADEBlg!"
 description: > # this means to ignore newlines until "email:"
-A blog about Data Engineering, Data Governance, Data Intelligence and maybe to occational dog photo!  
 email: jasonrich85@gmail.com 
 #blog logo
 logo: "/assets/images/df_logo.jpg"
