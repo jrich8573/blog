@@ -6,6 +6,9 @@ categories:
 tags: intro 
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
+Thank you for stopping by. The page is still underconstruction :construction:. Please check down next week for our first post!
+
+
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 {% highlight js %}
