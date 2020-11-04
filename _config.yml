@@ -1,0 +1,62 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "NADEBlg!"
+description: > # this means to ignore newlines until "email:"
+A blog about Data Engineering, Data Governance, Data Intelligence and maybe to occational dog photo!  
+email: jasonrich85@gmail.com 
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Jason Rich'
+author: 'Jason Rich'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "https://nadeblg.com" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@jrich8573'
+
+#fill in disqus shortname to use disqus
+disqus: disqus_jN3rkkoorh
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/jrich8573
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/jrich8573
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
