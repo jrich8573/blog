@@ -6,7 +6,7 @@ categories:
 tags: featured 
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
-Today, I am formally announcing the release of Not Another Data Engineering Blog!(NADEBLG!). I have thought about the best ways to approach this new endeavor, what I want to write about and discuss, and most of all, who is the audience I am trying to reach. Before my first technical post, we must first to do a little house keeping, or said another way, we must lay the foundation for the articles to follow. 
+Today, I am formally announcing the release of Not Another Data Engineering Blog! (NADEBLG!). I have thought about the best ways to approach this new endeavor, what I want to write about and discuss, and most of all, who is the audience I am trying to reach. Before my first technical post, we must first to do a little house keeping, or said another way, we must lay the foundation for the articles to follow. 
 
 The goals of this little blog, are to document what I am learning! From tools, to techniques, to research and books I am reading, to rants and interviewing for the next data engineering adventure. The holistic intent to any and everything data engineering (with a tinge of flexibility to discuss other interesting topics). With that in mind, this blog is more about documenting my journey, and if I can help other like minded souls to learn something new, then we can all sleep easy at night (or the early morning if you are a night owl like myself). So, without further ado, let me list a taste of the upcoming contain I plan to post and discuss: 
 
