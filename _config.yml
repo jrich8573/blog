@@ -23,17 +23,19 @@ paginate:	5
 url: "https://nadeblg.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@jrich8573'
+twitter_handle: '@realjasonrich'
 
 #fill in disqus shortname to use disqus
 disqus: disqus_jN3rkkoorh
 
+# Slack channel
+slack: nadeblg!
 #google_analytics: UA-XXXXX-X
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/jrich8573
+    url:	https://twitter.com/realjasonrich
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -59,3 +61,9 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+  - icon: slack
+    url: https://nadeblg.slack.com
+    desc: Join our Slack channel
+   # share_url: http://twitter.com/share
+   # share_title: ?text=
+   # share_link: "&amp;url="
