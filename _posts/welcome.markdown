@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to NADEBlg!"
 date:   2021-02-03 
 categories:  
-tags: featured 
+tags: welcome 
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 Today, I am formally announcing the release of Not Another Data Engineering Blog! (NADEBLG!). I have thought about the best ways to approach this new endeavor, what I want to write about and discuss, and most of all, who is the audience I am trying to reach. Before my first technical post, we must first  do a little house keeping, or said another way, we must lay the foundation for the articles to follow. 
