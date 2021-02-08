@@ -4,7 +4,7 @@ title:  "Competitive Advantage"
 date:   2021-02-08 
 categories:  
 tags: featured 
-image: /assets/article_images/2021-02-08-competitive-advantage/winning-with-data.JPG
+image: /assets/article_images/2021-02-08-competitive-advantage/win-w-data.JPG
 ---
 
 I recently started reading Tomasz Tunguz and Frank Bien's [Winning with Data; Tranform your Culture, Empower your People, and Shape the Future](https://www.amazon.com/Winning-Data-Transform-Culture-Empower/dp/1119257239/ref=sxts_sxwds-bia-wc-rsf1_0?crid=4Z226TRMUADD&cv_ct_cx=winning+with+data&dchild=1&keywords=winning+with+data&pd_rd_i=1119257239&pd_rd_r=a6dcb17d-fb9d-4945-b403-ab685ca83205&pd_rd_w=g4JpJ&pd_rd_wg=tX4wd&pf_rd_p=5168df84-062d-4bdf-8a6e-2680813bd42f&pf_rd_r=CYJBG2YRGJA9R3YR4PYF&psc=1&qid=1612796155&sprefix=Winning+with+%2Caps%2C314&sr=1-1-7bf78e84-8ef2-4f13-9926-bee5153e81cb).For many us in the data management field, whether in `Data Engineering`,`Business Intelligence`, `Data Architecture`, `Database Administration`, or even `Software Engineering`, understanding and extending the usage of data within your organization is an ever present, and sometimes contentious, goal that few, if any, ever truly reach. 
