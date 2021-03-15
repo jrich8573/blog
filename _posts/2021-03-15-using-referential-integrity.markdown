@@ -70,7 +70,7 @@ alter table tbl_fact_student add constraint fk_dpt_id foreign key(depart_id) ref
 
 Personally, I prefer the former, if for nothing else it makes the "true" table definition readable to anyone that may need to reuse or alter the code. Secondly, it may the table definition super user friendly. 
 
-Well that's it for now. I hope you enjoyed reading about referential integrity. If you have specific things you want to read about, drop me a line on either [GitHub](https://github.com/jrich8573),  [slack](nadeblg.slack.com) or on [Twitter](https://twitter.com/realjasonrich).   
+Well that's it for now. I hope you enjoyed reading about referential integrity. If you have specific things you want to read about, drop me a line on either [GitHub](https://github.com/jrich8573),  [Slack](nadeblg.slack.com) or on [Twitter](https://twitter.com/realjasonrich).   
 
 
 Thank you for reading. 
