@@ -55,7 +55,7 @@ create table if not exists tbl_fact_student(
         uin smallint unsigned not null auto_increment primary key
        ,sname varchar(50)
        ,depart_id smallint unsigned
-       ,program ENUM('UG', 'MS', 'PHD')
+       ,program enum('UG', 'MS', 'PHD')
        constraint fk_dpt_id foreign key (depart_id)
        references tbl_fact_department (id)
 );
