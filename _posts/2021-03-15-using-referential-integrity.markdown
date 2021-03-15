@@ -15,8 +15,6 @@ Before we dive into the world of Referential integrity we must first discuss the
 
 ```sql
 -- ignore case
-
-
 alter session set nls_comp=linguistic;
 alter session set nls_sort=binary_ci;
 set sqlblanklines on; 
