@@ -78,6 +78,7 @@ Thank you for reading.
 Cheers!         
 Jason 
 
-__References__
+__References__          
+
 [1] https://en.wikipedia.org/wiki/Foreign_key           
 [2] Kroenke, D.M., Auer, D.J., Vandenberg, S.L., Yoder, R.C.(2020). *Database Concepts (9th ed.).* Pearson Education 
