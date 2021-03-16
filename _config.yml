@@ -68,9 +68,9 @@ social:
    # share_title: ?text=
    # share_link: "&amp;url="
 
-   - icon: linkedin
-     url: https://www.linkedin.com/in/jason-rich-data-engineer
-     desc: Connect on LinkedIn
+  - icon: linkedin
+    url: https://www.linkedin.com/in/jason-rich-data-engineer
+    desc: Connect on LinkedIn
      #share_url: https://www.linkedin.com/feed/
      #share_title: ?text=
      #share_link: "&amp;url="
