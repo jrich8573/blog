@@ -71,6 +71,6 @@ social:
    - icon: linkedin
      url: https://www.linkedin.com/in/jason-rich-data-engineer
      desc: Connect on LinkedIn
-     share_url: https://www.linkedin.com/feed/
-     share_title: ?text=
-     share_link: "&amp;url="
+     #share_url: https://www.linkedin.com/feed/
+     #share_title: ?text=
+     #share_link: "&amp;url="
