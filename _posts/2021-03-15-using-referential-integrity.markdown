@@ -6,7 +6,7 @@ categories:
 tags: featured 
 image: /assets/article_images/2021-03-15-using-referential-integrity/db-rf.png
 ---
-I am not sure about about you, but tax season is a busy time of year for my teams. With that, I have jumped in the mix to assist with code reviews, `PR` approvals and branch merging in order to free up some of my `Senior Data Engineers` to do more time sensitive `ad hoc` work for the senior leadership. The one treading issue that I constantly see within my code reviews is the lack of `Referential Integrity` between database tables. For any in the [data management](https://en.wikipedia.org/wiki/Data_management) field, using [primary keys](https://en.wikipedia.org/wiki/Primary_key) are simply business as usual. However, the use of [foreign keys](https://en.wikipedia.org/wiki/Foreign_key) are, well, foreign. 
+I am not sure about you, but tax season is a busy time of year for my teams. With that, I have jumped in the mix to assist with code reviews, `PR` approvals and branch merging in order to free up some of my `Senior Data Engineers` to do more time sensitive `ad hoc` work for the senior leadership. The one treading issue that I constantly see within my code reviews is the lack of `Referential Integrity` between database tables. For any in the [data management](https://en.wikipedia.org/wiki/Data_management) field, using [primary keys](https://en.wikipedia.org/wiki/Primary_key) are simply business as usual. However, the use of [foreign keys](https://en.wikipedia.org/wiki/Foreign_key) are, well, foreign. 
  
 
 So that we are on the same page, let me start by defining referential integrity; how one might use referential integrity and then I will provide some examples of referential integrity to drive home the point. 
